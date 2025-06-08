@@ -122,7 +122,7 @@ This project was collaboratively created by:
 - **Fatima Mohsin** – [GitHub](#)  
 - **Alveena Javed** – [GitHub](#)  
 - **M. Obaid ur Rehman** – [GitHub](#)
-- **M. Zohaib Khan** – [GitHub](https://github.com/ZohaibCodez) *(repository maintainer)*  <br>
+- **M. Zohaib Khan** – [GitHub](https://github.com/ZohaibCodez) 
 
 > *ℹ️ All members contributed equally to this project as part of a collaborative academic effort.*
 
