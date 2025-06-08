@@ -124,8 +124,7 @@ This project was collaboratively created by:
 - **M. Obaid ur Rehman** – [GitHub](#)
 - **M. Zohaib Khan** – [GitHub](https://github.com/ZohaibCodez) *(repository maintainer)*  <br>
 
-> *ℹ️ All members contributed equally to this project as part of a collaborative academic effort.*<br>
-> *🛠 This GitHub repository is maintained by Zohaib Khan for public showcase.*
+> *ℹ️ All members contributed equally to this project as part of a collaborative academic effort.*
 
 ---
 
@@ -134,8 +133,3 @@ This project was collaboratively created by:
 This project is open-sourced under the **MIT License** – see [LICENSE](LICENSE) for details.<br>
 You are free to use, adapt, and distribute this work with attribution.
 
----
-
-## 🔗 Tags
-
-`statistics` · `data-analysis` · `education` · `productivity` · `scheduling` · `student-lifestyle`
