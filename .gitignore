@@ -1,0 +1,26 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.so
+
+# Colab-specific
+*.ipynb-output/
+*.colab/
+
+# System/OS files
+.DS_Store
+Thumbs.db
+
+# VS Code or IDE settings (optional)
+.vscode/
+*.code-workspace
+
+# Excel autosave/temp files
+~$*.xlsx
+
+# Do not ignore cleaned dataset, but ignore other random Excel files
+data/*.xls
+!data/schedule_survey_cleaned.xlsx
