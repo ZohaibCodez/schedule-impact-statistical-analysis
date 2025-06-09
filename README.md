@@ -81,6 +81,12 @@ See charts in the [`/charts/`](charts/) folder.
   <em>Fig 3: Scheduling satisfaction among AI tool users vs. non-users</em>
 </p>
 
+<p align="center">
+  <img src="charts/observations/obs7_scheduling_satisfaction.png" alt="Observation 7: Flexibility vs Satisfaction" width="450"/>
+  <br>
+  <em>Fig 4: Scheduling satisfaction distribution by flexibility importance</em>
+</p>
+
 <!-- --- -->
 
 ## 🧠 Key Insights
@@ -92,6 +98,8 @@ See charts in the [`/charts/`](charts/) folder.
 | 3 | Planning vs. Effectiveness       | Planned → More effective           | ✅ Yes (p = 0.0078) |
 | 4 | Schedule vs. Healthy Lifestyle   | No significant relationship        | ❌ No (Z = 1.315) |
 | 5 | AI Use vs. Satisfaction          | No clear impact observed           | ❌ No (Z = 1.037) |
+| 6 | Schedule vs. Work-Life Balance   | No significant difference          | ❌ No (p = 0.0738) |
+| 7 | Flexibility vs. Satisfaction     | High flexibility → Different satisfaction | ✅ Yes (p = 0.0058) |
 
 
 🔗 Full summary in: [`summary_table.csv`](summary_table.csv)
