@@ -119,8 +119,8 @@ See charts in the [`/charts/`](charts/) folder.
 
 This project was collaboratively created by:
 
-- **Fatima Mohsin** – [GitHub](#)  
-- **Alveena Javed** – [GitHub](#)  
+- **Fatima Mohsin** – [GitHub](https://github.com/fatimakhan579)  
+- **Alveena Javed** – [GitHub](https://github.com/Alveena-Javaid)  
 - **M. Obaid ur Rehman** – [GitHub](#)
 - **M. Zohaib Khan** – [GitHub](https://github.com/ZohaibCodez) 
 
